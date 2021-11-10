@@ -11,6 +11,10 @@ body{
     border-radius: 20px;
 
 }
+.card:hover{
+    height: 32vh;
+    box-shadow: 46px 47px 98px rgba(255, 255, 255, 0.8)
+}
 h1{
     font-family: 'Open Sans';
     font-weight: 600;
