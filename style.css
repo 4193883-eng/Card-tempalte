@@ -1,0 +1,38 @@
+body{
+    height: 100vh;
+    background-color:#2E2641;
+    padding-left: 3vh;
+}
+.card{
+    aspect-ratio: 131/67;
+    height: 30vh;
+    margin-top: 3vh;
+    transition: all 0.5s;
+    border-radius: 20px;
+
+}
+h1{
+    font-family: 'Open Sans';
+    font-weight: 600;
+    padding-left: 2vh;
+    width: 65%;
+    font-size: 50px;
+    color: white;
+
+}
+h3{
+    font-family: 'Open Sans';
+    font-weight: 300;
+    padding-top: 50px;
+    padding-left: 2vh;
+    color: white;
+}
+.one{
+    background: linear-gradient(45deg, #B484F3, #E04E78);
+}
+.two{
+    background: linear-gradient(45deg, #F5C286, #EE9494);
+}
+.three{
+    background: linear-gradient(45deg, #774DA9, #6787E5);
+}
